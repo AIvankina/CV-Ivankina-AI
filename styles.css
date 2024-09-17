@@ -1,0 +1,59 @@
+body {
+    font-family: Roboto, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://oir.mobi/uploads/posts/2024-03/1710748236_oir-mobi-8pe3-p-fon-dlya-vorda-76.jpg");
+    background-size: cover;
+}
+
+.major {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    float: left;
+    margin: 0;
+    width: 85%;
+}
+
+
+.profile-photo {
+    float: right;
+    margin: 0;
+    width: 15%;
+}
+
+h1 {
+    margin: 0;
+    color: #333281;
+}
+
+
+
+
+h2 {
+    color: #2c73ba;
+}
+
+section {
+    clear: both;
+    margin-bottom: 16px;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
